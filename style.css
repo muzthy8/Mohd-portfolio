@@ -1,0 +1,19 @@
+* {
+ font-family: "Poppins", sans-serif;
+}
+
+  /*
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  */
+  /* for your wise */
+.banner {
+  background-image: url(/Portfolio/Photo/blue_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 0;
+}
+h5 {
+  color: #fff;
+}
