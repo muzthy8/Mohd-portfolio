@@ -9,7 +9,7 @@
   */
   /* for your wise */
 .banner {
-  background-image: url(/Portfolio/Photo/blue_bg.jpg);
+  background-image: url(./Photo/blue_bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 250px 0;
