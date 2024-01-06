@@ -6,7 +6,11 @@
   font-family: "Montserrat", sans-serif;
   font-family: "Poppins", sans-serif;
   font-family: "Roboto", sans-serif;
+
+  (./Photo/blue_bg.jpg) path
+
   */
+
   /* for your wise */
 .banner {
   background-image: url(./Photo/blue_bg.jpg);
